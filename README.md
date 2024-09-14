@@ -9,3 +9,7 @@ python turkce_isim_generator.py
 ### Changing name list
   1. Download name list.
   2. Give full path to to read_txt() function.
+
+### Requirements
+  1. torch
+  2. matplotlib (for visualization purposes, optional.)
