@@ -13,3 +13,12 @@ python turkce_isim_generator.py
 ### Requirements
   1. torch
   2. matplotlib (for visualization purposes, optional.)
+
+### Best names so far
+  1. Mela
+  2. Afen
+  3. İlal
+  4. Eraf
+  5. Ara
+  6. Handen
+  7. Nalin
