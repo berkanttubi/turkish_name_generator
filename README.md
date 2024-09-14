@@ -22,3 +22,6 @@ python turkce_isim_generator.py
   5. Ara
   6. Handen
   7. Nalin
+     
+### Data source
+  1. https://gist.github.com/emrekgn/b4049851c88e328c065a
